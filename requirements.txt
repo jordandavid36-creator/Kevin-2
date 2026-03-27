@@ -1,0 +1,14 @@
+click
+rich
+pydantic
+pyyaml
+python-dotenv
+jinja2
+httpx
+flask
+flask-cors
+flask-socketio
+watchfiles
+psutil
+docker
+gitpython
