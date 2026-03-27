@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+ build-backend = "setuptools.build_meta"
+
+[project]
+name = "Kevin"
+version = "0.1.0"
+author = [{name = "Jordan David", email = "jordandavid36-creator@example.com"}]
+description = "A project that does amazing things."
+readme = "README.md"
+license = {text = "MIT"}
+keywords = ["example", "project"]
+
+[project.urls]
+home = "https://github.com/jordandavid36-creator/Kevin-2"
+
+[tool.poetry.dependencies]
+python = "^3.8" # Specify the required Python version
+requests = "^2.26.0" # Add your project's dependencies here
